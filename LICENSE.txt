@@ -1,0 +1,15 @@
+SmartClip - Dual Licensing Information
+
+SmartClip is available under two licensing options:
+
+1. GNU AGPL v3 License:
+   - Free for individual and non-commercial use.
+   - Requires open-sourcing of any modifications or derivative works.
+   - See LICENSE-AGPL.md for full terms.
+
+2. Commercial License:
+   - Required for commercial, business, or professional use.
+   - Allows proprietary use without the obligation to disclose source code.
+   - See LICENSE-COMMERCIAL.md for full terms and contact information.
+
+For any licensing inquiries or to obtain a commercial license, please contact arul.virumbi@gmail.com .
