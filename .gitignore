@@ -1,0 +1,5 @@
+*.local
+*.ahk
+*.cs
+build
+data/store.json
