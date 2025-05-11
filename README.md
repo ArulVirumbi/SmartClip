@@ -2,6 +2,14 @@
 
 SmartClip is a clipboard management tool that helps you save and retrieve text snippets quickly using keyboard shortcuts. Whether you're working on multiple tasks or need to store frequently used text, SmartClip helps you streamline your workflow by providing easy access to your clipboard history.
 
+## 📽️ Product Demo
+
+Watch the demo video below to see our product in action:
+
+[![Watch the demo](https://img.youtube.com/vi/mvJw5jIfYw4/0.jpg)](https://www.youtube.com/watch?v=mvJw5jIfYw4)
+
+> Click the image above or [watch it on YouTube](https://www.youtube.com/watch?v=mvJw5jIfYw4).
+
 ## Features
 
 - **Save Snippets**: Save selected text to the clipboard using the `Ctrl+Alt+C` keyboard shortcut.

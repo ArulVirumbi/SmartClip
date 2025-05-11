@@ -3,3 +3,5 @@
 *.cs
 build
 data/store.json
+backup*
+test*
